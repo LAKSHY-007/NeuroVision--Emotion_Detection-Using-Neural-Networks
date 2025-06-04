@@ -14,13 +14,13 @@ A high-performance deep learning system for real-time facial emotion recognition
 
 # 🛠️ Technical Specifications
 
-| Component          | Details                                  |
-|--------------------|------------------------------------------|
-| **Model**          | Custom CNN (3 Conv blocks → 2 Dense layers) |
-| **Input Resolution**| 48×48 grayscale                          |
-| **Training Dataset**| 28,709 training images / 7,178 validation samples |
-| **Accuracy**       | ~95% validation accuracy (7-class)      |
-| **Dependencies**   | TensorFlow, OpenCV, NumPy, Matplotlib   |
+| Component           | Details                                  |
+|---------------------|------------------------------------------|
+| **Model**           | Custom CNN (3 Conv blocks → 2 Dense layers) |
+| **Input Resolution** | 48×48 grayscale                          |
+| **Training Dataset** | 28,709 training images / 7,178 validation samples |
+| **Accuracy**        | ~95% validation accuracy (7-class)      |
+| **Dependencies**    | TensorFlow, OpenCV, NumPy, Matplotlib   |
 
 ---
 
@@ -30,9 +30,13 @@ A high-performance deep learning system for real-time facial emotion recognition
 git clone https://github.com/yourusername/emotion-detection.git
 cd emotion-detection
 pip install -r requirements.txt
+```
+
+#Screenshots
+![Emotion1](https://github.com/user-attachments/assets/b71e840b-2717-4ea5-ab61-40880e351cc3)
+  
+![Emotion2](https://github.com/user-attachments/assets/3bf52a2b-c4eb-4d2b-859c-1cd95b5fb4a7)
 
 
-![Emotion1](https://github.com/user-attachments/assets/e92a805b-5d19-424c-8d06-eacc49022b1d)
-![emotion2](https://github.com/user-attachments/assets/24aa0c52-cfc9-48bc-97a5-996afdda3925)
 
 
