@@ -38,7 +38,24 @@ pip install -r requirements.txt
 ![Emotion2](https://github.com/user-attachments/assets/3bf52a2b-c4eb-4d2b-859c-1cd95b5fb4a7)
 
 
+## 🚀 What's Next? (Roadmap v1.2)
 
+While NeuroVision-9 currently delivers state-of-the-art emotion recognition, this is just the foundation for an expansive multimodal perception system:
+
+### Next Upgrades
+- [ ] **Multimodal Analysis**  
+  Voice + facial expression fusion (Wav2Vec2 + ViT hybrid)
+- [ ] **Edge Deployment**  
+  TensorRT Lite for Raspberry Pi/Jetson
+- [ ] **Real-Time API**  
+  FastAPI backend with auto-scaling
+
+### Future Horizons
+- [ ] **Micro-Expressions** (240FPS processing)  
+- [ ] **AR Emotion Visualization** (Unity plugin)  
+- [ ] **Physiological Signals** (PPG/EDA sensor integration)  
+
+*Building machine perception layer by layer.* 
 
 
 
