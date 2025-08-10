@@ -32,10 +32,14 @@ cd emotion-detection
 pip install -r requirements.txt
 ```
 
-#Screenshots
+#  Screenshots
 ![Emotion1](https://github.com/user-attachments/assets/b71e840b-2717-4ea5-ab61-40880e351cc3)
   
 ![Emotion2](https://github.com/user-attachments/assets/3bf52a2b-c4eb-4d2b-859c-1cd95b5fb4a7)
+
+
+
+
 
 
 
